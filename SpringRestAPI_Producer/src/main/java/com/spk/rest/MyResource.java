@@ -1,4 +1,5 @@
-package com.spk.Simple_RestExample;
+
+package com.spk.rest;
 
 
 
